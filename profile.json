@@ -1,18 +1,15 @@
 {
 	"basics": {
-		"name": "Kishore",
-		"label": "Architect",
+		"name": "ncαt",
+		"label": "noob",
 		"picture": "profile.jpg",
 		"email": "prakis@gmail.com",
-		"phone": "(000) 98765-4321",
-		"website": "https://kishore.pro/grammer",
-		"twitter": "https://twitter.com/prakis",
-		"facebook": "https://www.facebook.com/Stringify.me",
 		"github": "http://github.com/prakis",
-		"summary": "I'm Kishore, Software Architect with expertise in Embedded Systems, Cloud, and Web technologies. My skill set includes Java, C#, ReactJS, NodeJS, Python, Go, and cloud platforms like GCP, AWS, and Azure. I bring over 23 years of experience in software development and 2 years in nanotechnology."
+		"summary": "i'm a noob bruh. a owner of alphambcp (forked from MBCP/mbbpatch repo)."
 	},
 	"theme": {
 		"url": "https://github.com/prakis/stringify.me-theme",
 		"background" :"#f98008"
 	}
 }
+
